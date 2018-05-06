@@ -1,0 +1,37 @@
+﻿@model TrelloAlt.Models.ToDoActModel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>My To-do-List</h2>
+
+<div id="tableDivElement"></div>
+
+<div id="toDoActCreateFrom">
+            @using (Ajax.BeginForm(
+                "AjaxCreate", "ToDoActModels",
+                new AjaxOptions
+                {
+                    InsertionMode = InsertionMode.Replace,
+                    HttpMethod = "POST",
+                    UpdateTargetId = "tableDivElement"
+                }))
+            {
+                <div class="form-group">
+                    @Html.AntiForgeryToken()
+                    <div>
+                        @Html.EditorFor(model => model.Description, new {htmlAttributes = new {@class = "form-control"}})
+                        @Html.ValidationMessageFor(model => model.Description, "", new {@class = "text-danger"})
+                    </div>
+                </div>
+            }
+</div>
+
+
+
+@section Scripts {
+    <script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+    <script src="~/CustomScripts/BuildTableScript.js"></script>
+    @Scripts.Render("~/bundles/jqueryval")
+}

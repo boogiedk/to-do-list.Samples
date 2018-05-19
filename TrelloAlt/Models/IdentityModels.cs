@@ -27,7 +27,6 @@ namespace TrelloAlt.Models
 
         //custom
         public DbSet<ToDoActModel> ToDoActModels { get; set; }
-        public DbSet<ActListModel> ActListModels { get; set; }
 
         public static ApplicationDbContext Create()
         {

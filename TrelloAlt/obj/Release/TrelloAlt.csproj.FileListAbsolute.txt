@@ -130,3 +130,5 @@ C:\Users\ganz1\Desktop\Trello Alt\TrelloAlt\TrelloAlt\obj\Release\TrelloAlt.cspr
 C:\Users\ganz1\Desktop\Trello Alt\TrelloAlt\TrelloAlt\obj\Release\TrelloAlt.csproj.CopyComplete
 C:\Users\ganz1\Desktop\Trello Alt\TrelloAlt\TrelloAlt\obj\Release\TrelloAlt.dll
 C:\Users\ganz1\Desktop\Trello Alt\TrelloAlt\TrelloAlt\obj\Release\TrelloAlt.pdb
+C:\Users\ganz1\Desktop\Trello Alt\TrelloAlt\TrelloAlt\obj\Release\TrelloAlt.Migrations.EditActListModel.resources
+C:\Users\ganz1\Desktop\Trello Alt\TrelloAlt\TrelloAlt\obj\Release\TrelloAlt.csproj.GenerateResource.cache

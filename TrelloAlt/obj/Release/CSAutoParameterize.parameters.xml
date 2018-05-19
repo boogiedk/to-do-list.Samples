@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
-  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Строка подключения в web.config, используемая приложением для доступа к базе данных." defaultValue="Data Source=tralalambdserver.database.windows.net;Initial Catalog=TralalamDB;Persist Security Info=True;User ID=boogiedk;Password=Nvidia161" tags="SqlConnectionString">
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Строка подключения в web.config, используемая приложением для доступа к базе данных." defaultValue="Data Source=tralalambdserver.database.windows.net;Initial Catalog=TralalamDB;Persist Security Info=True;User ID=boogiedk;Password=Password1" tags="SqlConnectionString">
     <parameterEntry kind="XmlFile" scope="C:\\Users\\ganz1\\Desktop\\Trello\ Alt\\TrelloAlt\\TrelloAlt\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
   </parameter>
   <parameter name="DefaultConnection_DatabasePublish-Web.config Connection String" description="DefaultConnection_DatabasePublish Строка подключения в web.config, используемая приложением для доступа к базе данных." defaultValue="DefaultConnection_DatabasePublish.ConnetionString" tags="SqlConnectionString">

@@ -41,7 +41,7 @@ namespace TrelloAlt.Controllers
                 }
             }
 
-            ViewBag.Percent = Math.Round(100f*((float)completeCount/(float)myToDoAct.Count()));
+            ViewBag.Percent = Math.Round(100f * ((float)completeCount / (float)myToDoAct.Count()));
 
             return myToDoAct;
             //

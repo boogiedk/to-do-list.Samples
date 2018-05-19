@@ -126,9 +126,7 @@ C:\Users\ganz1\Desktop\Trello Alt\TrelloAlt\TrelloAlt\bin\ru\Microsoft.AspNet.Id
 C:\Users\ganz1\Desktop\Trello Alt\TrelloAlt\TrelloAlt\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
 C:\Users\ganz1\Desktop\Trello Alt\TrelloAlt\TrelloAlt\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
 C:\Users\ganz1\Desktop\Trello Alt\TrelloAlt\TrelloAlt\obj\Release\TrelloAlt.csprojResolveAssemblyReference.cache
-C:\Users\ganz1\Desktop\Trello Alt\TrelloAlt\TrelloAlt\obj\Release\TrelloAlt.csproj.GenerateResource.cache
 C:\Users\ganz1\Desktop\Trello Alt\TrelloAlt\TrelloAlt\obj\Release\TrelloAlt.csproj.CoreCompileInputs.cache
 C:\Users\ganz1\Desktop\Trello Alt\TrelloAlt\TrelloAlt\obj\Release\TrelloAlt.csproj.CopyComplete
 C:\Users\ganz1\Desktop\Trello Alt\TrelloAlt\TrelloAlt\obj\Release\TrelloAlt.dll
 C:\Users\ganz1\Desktop\Trello Alt\TrelloAlt\TrelloAlt\obj\Release\TrelloAlt.pdb
-C:\Users\ganz1\Desktop\Trello Alt\TrelloAlt\TrelloAlt\obj\Release\TrelloAlt.Migrations.MigrateDBc.resources

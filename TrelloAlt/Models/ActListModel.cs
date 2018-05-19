@@ -5,12 +5,11 @@ using System.Web;
 
 namespace TrelloAlt.Models
 {
-    public class ToDoActModel
+    public class ActListModel
     {
         public string Name { get; set; }
         public int Id { get; set; }
-        public string Description { get; set; }
-        public bool IsDone { get; set; }
         public virtual ApplicationUser User { get; set; }
+        public IEnumerable<ToDoActModel> ActList { get; set; }
     }
 }

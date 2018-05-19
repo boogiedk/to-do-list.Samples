@@ -130,5 +130,3 @@ C:\Users\ganz1\Desktop\Trello Alt\TrelloAlt\TrelloAlt\obj\Debug\TrelloAlt.csproj
 C:\Users\ganz1\Desktop\Trello Alt\TrelloAlt\TrelloAlt\obj\Debug\TrelloAlt.dll
 C:\Users\ganz1\Desktop\Trello Alt\TrelloAlt\TrelloAlt\obj\Debug\TrelloAlt.pdb
 C:\Users\ganz1\Desktop\Trello Alt\TrelloAlt\TrelloAlt\obj\Debug\TrelloAlt.csprojResolveAssemblyReference.cache
-C:\Users\ganz1\Desktop\Trello Alt\TrelloAlt\TrelloAlt\obj\Debug\TrelloAlt.Migrations.MigrateDBc.resources
-C:\Users\ganz1\Desktop\Trello Alt\TrelloAlt\TrelloAlt\obj\Debug\TrelloAlt.csproj.GenerateResource.cache
